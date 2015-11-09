@@ -1,6 +1,6 @@
-{
+x{
   "name": "jquery",
-  "version": "2.1.4",
+  "version": "2.1.4a",
   "main": "dist/jquery.js",
   "license": "MIT",
   "ignore": [
